@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I’m currently completing my Data Science Masters degree at the University of San Diego
 <!--
 **zalvatore/zalvatore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
