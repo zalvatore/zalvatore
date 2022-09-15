@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - 🔭 I’m currently completing my Data Science Masters degree at the University of San Diego
 <!--
 **zalvatore/zalvatore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
