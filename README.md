@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently completing my Data Science Masters degree at the University of San Diego <p> University of San Diego  <img src = "https://www.sandiego.edu/assets/global/images/logos/logo-usd.png" width = 64px> </0>
-- 
+- 🔭 I’m currently completing my Data Science Masters degree at the University of San Diego <p> University of San Diego  <img src = "https://www.sandiego.edu/assets/global/images/logos/logo-usd.png" width = 128px> </p>
 
-                                                                                                                         <!--
+<!--
 **zalvatore/zalvatore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
