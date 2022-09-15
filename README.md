@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently completing my Data Science Masters degree at the <a href= https://www.sandiego.edu ><img src = "https://www.sandiego.edu/assets/global/images/logos/logo-usd.png" width = 256px> 
+- 🔭 I’m currently completing my Data Science Masters degree at the ->  <a href= https://www.sandiego.edu ><img src = "https://www.sandiego.edu/assets/global/images/logos/logo-usd.png" width = 230px> 
 
 
 
