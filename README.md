@@ -7,6 +7,17 @@
   
 - 🔭 Certified Six Sigma Black Belt <img src = "http://www.sixsigmatrainingfree.com/uploads/2/1/7/9/21795380/1447264519.png" width = 30px> 
 
+Shiny App:
+
+https://iynhlq-salvador0sanchez.shinyapps.io/shiny/
+
+Tableau Public:
+
+https://public.tableau.com/app/profile/salvador.sanchez
+
+https://public.tableau.com/app/profile/salvador.sanchez/viz/PoliceSettlements2011-2019/Cover
+
+
 
 
 <!--
