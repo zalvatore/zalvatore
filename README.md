@@ -1,7 +1,6 @@
 
 ### Howdy! 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zalvatore.zalvatore&left_color=grey&right_color=blue)
  
 - 🌱 I’m currently completing my Data Science Masters degree at the -> <img src = "https://www.sandiego.edu/assets/global/images/logos/logo-usd.png" width = 190px > 
   
